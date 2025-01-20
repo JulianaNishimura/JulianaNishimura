@@ -2,6 +2,8 @@
 
 # Olá, eu sou a Juliana 👋
 
+...
+
 ## 📚 Sobre mim
 - ⭐ Busco sempre aprimorar minhas habilidades em desenvolvimento de software.
 - 📚 Atualmente estudando: 

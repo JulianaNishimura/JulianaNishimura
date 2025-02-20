@@ -25,6 +25,7 @@ Aqui estão algumas das tecnologias que já tive contato e estou aprendendo:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaNishimura&layout=compact&theme=dracula)
 
+
 ---
 
 Obrigada por visitar meu perfil! 🚀

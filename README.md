@@ -26,7 +26,13 @@ Aqui estão algumas das tecnologias que já tive contato e estou aprendendo:
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaNishimura&layout=compact&theme=dracula&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaNishimura&layout=compact&theme=dark&v=2)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JulianaNishimura&show_icons=true&theme=dark&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JulianaNishimura&theme=dark)](https://git.io/streak-stats)
+
+
 
 
 

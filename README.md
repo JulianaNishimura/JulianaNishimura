@@ -30,10 +30,6 @@ Aqui estão algumas das tecnologias que já tive contato e estou aprendendo:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JulianaNishimura&show_icons=true&theme=dark&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JulianaNishimura&theme=dark)](https://git.io/streak-stats)
-
-
-
 
 
 ---

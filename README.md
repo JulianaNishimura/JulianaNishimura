@@ -33,10 +33,10 @@ Aqui estão algumas das tecnologias com as quais já tive contato e estou aprend
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -50,6 +50,26 @@ Aqui estão algumas das tecnologias com as quais já tive contato e estou aprend
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+  <br>
+
+---
+
+## 📂 Projetos em destaque
+
+Aqui estão alguns projetos que desenvolvi durante meus estudos e experiências:
+
+- 🏥 **Sistema de Clínica Médica**  
+  Backend em Java com Spring Boot. Gerencia médicos, pacientes e consultas usando DTOs, banco de dados relacional e arquitetura RESTful.
+
+- 🛒 **Sistema de Gerenciamento de Estoque e Pedidos para Supermercado**  
+  Aplicação back-end estruturada com Spring MVC + Maven. Inclui autenticação por CPF, lógica de pedidos e controle de estoque.
+
+- 📬 **Sistema de Notificações (SteelTech)**  
+  Notificações automáticas com filtro por status. Estrutura escalável com tabela intermediária (usuário x notificação). Documentado com Swagger.
+
+- 🕹️ **Jogo Itu (multiplayer)**  
+  Jogo online feito com React, Tailwind e WebSockets. Comunicação em tempo real e foco em UX para partidas simultâneas.
 
   <br>
 
@@ -75,9 +95,12 @@ Aqui estão algumas estatísticas sobre meu GitHub:
 
 ---
 
-  <br><p align="center"><b>Contador de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/JulianaNishimura/count.svg" /></p> 
-  <br>
+
+<p align="center"><b>Visualizações do perfil</b></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JulianaNishimura&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=0e75b6&style=flat" alt="Contador de visitas"/>
+</p>
+
 
 ---
 

@@ -59,13 +59,14 @@ Aqui estão algumas das tecnologias com as quais já tive contato e estou aprend
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos e experiências:
 
-- 🏥 **Sistema de Clínica Médica**  
-  Backend em Java com Spring Boot. Gerencia médicos, pacientes e consultas usando DTOs, banco de dados relacional e arquitetura RESTful.
+- 🏥 **Sistema de Clínica Médica Psiquiátrica**  
+  Backend em Java com Spring Boot. Gerencia médicos, pacientes e consultas usando DTOs, banco de dados relacional e arquitetura RESTful, além de um front-end em html,bootstrap,css e js.
+  https://github.com/SENAISP-Unid601-Projetos/MentalHelp
 
 - 🛒 **Sistema de Gerenciamento de Estoque e Pedidos para Supermercado**  
   Aplicação back-end estruturada com Spring MVC + Maven. Inclui autenticação por CPF, lógica de pedidos e controle de estoque.
 
-- 📬 **Sistema de Notificações (SteelTech)**  
+- 📬 **Sistema de Notificações**  
   Notificações automáticas com filtro por status. Estrutura escalável com tabela intermediária (usuário x notificação). Documentado com Swagger.
 
 - 🕹️ **Jogo Itu (multiplayer)**  

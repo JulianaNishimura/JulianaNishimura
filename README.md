@@ -69,9 +69,6 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos e experiências:
 - 📬 **Sistema de Notificações**  
   Notificações automáticas com filtro por status. Estrutura escalável com tabela intermediária (usuário x notificação). Documentado com Swagger.
 
-- 🕹️ **Jogo Itu (multiplayer)**  
-  Jogo online feito com React, Tailwind e WebSockets. Comunicação em tempo real e foco em UX para partidas simultâneas.
-
   <br>
 
 ---

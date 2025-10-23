@@ -4,9 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<div align="">
-  <p><b>Desenvolvedora em formação com paixão por transformar ideias em soluções criativas! 🚀</b></p>
-  
+<div align="">  
   <br>
 
 ---

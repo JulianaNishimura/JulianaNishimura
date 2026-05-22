@@ -73,7 +73,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos e experiências:
 
 ## 💬 Vamos nos conectar?
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-yumi-nishimura-50197b341)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianayuminishimura)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianaNishimura)
 
   <br>

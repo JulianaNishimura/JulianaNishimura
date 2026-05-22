@@ -80,23 +80,10 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos e experiências:
 
 ---
 
-## 📊 Estatísticas
-
-Aqui estão algumas estatísticas sobre meu GitHub:
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaNishimura&layout=compact&theme=dark&v=2)
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JulianaNishimura&show_icons=true&theme=dark&count_private=true)
-
-  <br>
-
----
-
-
 <p align="center"><b>Visualizações do perfil</b></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JulianaNishimura&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=0e75b6&style=flat" alt="Contador de visitas"/>
 </p>
-
 
 ---
 

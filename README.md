@@ -9,20 +9,18 @@
 
 ---
 
-## 📚 Sobre mim
-- 👩‍💻 Sou estudante de Desenvolvimento de Sistemas e estou em constante busca por aprendizado e crescimento na área de tecnologia.
+## Sobre mim
+- Sou estudante de Desenvolvimento de Sistemas e estou em constante busca por aprendizado e crescimento na área de tecnologia.
     
-- 🎯 Meu objetivo é me tornar uma desenvolvedora full-stack, capaz de atuar tanto no frontend quanto no backend.
-    
-- 🛠️ Tenho interesse em: Desenvolvimento de APIs REST, aplicações web completas, automação de processos e Inteligência Artificial.
+- Tenho interesse em: Desenvolvimento de APIs REST, aplicações web completas, automação de processos e Inteligência Artificial.
   
-- 💡 Gosto de resolver problemas com código e aprender tecnologias que me ajudem a criar soluções úteis e eficientes.
+- Gosto de resolver problemas com código e aprender tecnologias que me ajudem a criar soluções úteis e eficientes.
 
   <br>
 
 ---
 
-## 📚 Tecnologias
+## Tecnologias
 
 Aqui estão algumas das tecnologias com as quais já tive contato e estou aprendendo:
 
@@ -42,7 +40,7 @@ Aqui estão algumas das tecnologias com as quais já tive contato e estou aprend
 
 ---
 
-## 🛠️ Ferramentas que uso
+## Ferramentas que uso
 
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -53,25 +51,7 @@ Aqui estão algumas das tecnologias com as quais já tive contato e estou aprend
 
 ---
 
-## 📂 Projetos em destaque
-
-Aqui estão alguns projetos que desenvolvi durante meus estudos e experiências:
-
-- 🏥 **Sistema de Clínica Médica Psiquiátrica**  
-  Backend em Java com Spring Boot. Gerencia médicos, pacientes e consultas usando DTOs, banco de dados relacional e arquitetura RESTful, além de um front-end em html,bootstrap,css e js.
-  https://github.com/SENAISP-Unid601-Projetos/MentalHelp
-
-- 🛒 **Sistema de Gerenciamento de Estoque e Pedidos para Supermercado**  
-  Aplicação back-end estruturada com Spring MVC + Maven. Inclui autenticação por CPF, lógica de pedidos e controle de estoque.
-
-- 📬 **Sistema de Notificações**  
-  Notificações automáticas com filtro por status. Estrutura escalável com tabela intermediária (usuário x notificação). Documentado com Swagger.
-
-  <br>
-
----
-
-## 💬 Vamos nos conectar?
+## Vamos nos conectar?
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianayuminishimura)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianaNishimura)
@@ -87,7 +67,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos e experiências:
 
 ---
 
-### Obrigada por visitar meu perfil! 🌟  
-Sempre aberta a aprender e colaborar com novos projetos 💻✨
+### Obrigada por visitar meu perfil!  
+Sempre aberta a aprender e colaborar com novos projetos ✨
 
 </div>
